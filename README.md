@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+Check it at https://awesome-chat-c68e6.firebaseapp.com/
+
+
 ## Build Setup
 
 ``` bash
